@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Play Video_vjs-icon-placeholder</name>
+   <tag></tag>
+   <elementGuidId>a3c11978-57d4-466e-b92b-2d658301346a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='example-video']/div[4]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.vjs-play-control.vjs-control.vjs-button.vjs-playing > span.vjs-icon-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Pause&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>11fb1d44-21c1-4392-aa39-f7d717dbaf38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>40d0daef-02fe-4dc1-b506-2005356ac91b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vjs-icon-placeholder</value>
+      <webElementGuid>9ecb292d-4ca1-4d0e-a087-740ee0029a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example-video&quot;)/div[@class=&quot;vjs-control-bar&quot;]/button[@class=&quot;vjs-play-control vjs-control vjs-button vjs-playing&quot;]/span[@class=&quot;vjs-icon-placeholder&quot;]</value>
+      <webElementGuid>6bfd041c-5ab4-4dda-b9aa-a1cc9265c24a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='example-video']/div[4]/button/span</value>
+      <webElementGuid>17a0c225-5f6b-4528-aaec-96735ae364f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/span</value>
+      <webElementGuid>7a578ba5-95c9-4d45-baed-af824e0c6148</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

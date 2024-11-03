@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 10-LOGOUT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0344c2a7-165d-46ec-93d7-63d9bdf63c30</testCaseGuid>
+</TestCaseEntity>

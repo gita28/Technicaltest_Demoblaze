@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 03 - Melihat Chart tanpa login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9feae144-913d-4e77-8ff1-30282c146e99</testCaseGuid>
+</TestCaseEntity>

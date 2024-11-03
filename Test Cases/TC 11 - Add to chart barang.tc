@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 11 - Add to chart barang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d2712a6-55e7-48a5-aeba-460e65e4e107</testCaseGuid>
+</TestCaseEntity>

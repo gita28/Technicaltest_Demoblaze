@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 07 - Categori Handphone</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e64c3246-2ef1-4d32-83b3-4d6e71b9ad09</testCaseGuid>
+</TestCaseEntity>

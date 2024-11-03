@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 01- SINGUP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c72075b2-75d9-4523-b18a-04fd3a6b10b7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK</name>
+   <tag></tag>
+   <elementGuidId>4c415125-4f8b-40d5-b373-fb52545c7090</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.confirm.btn.btn-lg.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;OK&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>da5b704a-615f-4712-894a-d5890498a02a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirm btn btn-lg btn-primary</value>
+      <webElementGuid>4e7217e0-31c2-45b2-ac91-cd034588a30e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>04beb559-29c3-4987-bb26-9348c0d0a4c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>61dad88d-5e00-468a-b49b-2866bff8d11f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open stop-scrolling&quot;]/div[@class=&quot;sweet-alert  showSweetAlert visible&quot;]/div[@class=&quot;sa-button-container&quot;]/div[@class=&quot;sa-confirm-button-container&quot;]/button[@class=&quot;confirm btn btn-lg btn-primary&quot;]</value>
+      <webElementGuid>0d3cd84b-6440-4275-bca0-bb3ffdbf5f61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>b423e221-9ca3-467d-bed9-2011ecaa0bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not valid'])[1]/following::button[2]</value>
+      <webElementGuid>36131d69-279f-4ce4-bce8-d6d0167c2f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>879775da-e2a7-4a5f-b730-e479f557144a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/button</value>
+      <webElementGuid>9565aea1-0d9b-4f99-a005-157671eae566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>1bf8837c-68d1-4a59-87dd-17ce0a00f8d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

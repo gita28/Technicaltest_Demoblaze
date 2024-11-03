@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 04 - About Us</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aefe7fc2-ff20-449e-87f2-8a06fc00b36f</testCaseGuid>
+</TestCaseEntity>
